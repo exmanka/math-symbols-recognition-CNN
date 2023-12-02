@@ -4,5 +4,5 @@
 
 A simple application capable of recognizing drawn mathematical symbols.  
 <b>Stack</b>: Keras (TensorFlow's framework), Tkinter.  
-<b>Model</b>: Convolutional neural network (CNN).
+<b>Model</b>: Convolutional neural network (CNN).  
 <b>Used dataset</b>: https://www.kaggle.com/datasets/xainano/handwrittenmathsymbols
